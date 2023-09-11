@@ -37,7 +37,7 @@ const ContactsList = () => {
     }, []);
     return (
         <>
-            <Form className="d-flex" style={{ marginBottom: "15px" }}>
+            <Form className="d-flex" style={{ margin: "15px" }}>
                 <Form.Control
                     type="search"
                     placeholder="Search by name"
